@@ -1,3 +1,8 @@
+'''
+Raymond Nault
+Chapter 2: Variables and Data Types
+'''
+
 5+3
 10-2
 4*2

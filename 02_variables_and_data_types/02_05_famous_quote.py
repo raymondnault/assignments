@@ -1,4 +1,9 @@
 '''
+Raymond Nault
+Chapter 2: Variables and Data Types
+'''
+
+'''
 Wayne Gretzky once said, "You miss 100% of the shots you don't take."
 '''
 person = "Wayne Gretzky"
