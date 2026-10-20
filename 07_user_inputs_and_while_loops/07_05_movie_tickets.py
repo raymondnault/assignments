@@ -1,3 +1,12 @@
+'''
+
+Raymond Nault
+Chapter 7: User Inputs and While Loops
+
+'''
+
+# this code will ask for your age to determine how much your movie ticket will cost.
+
 tickets = True
 while tickets:
     age = input('How old are you?')
