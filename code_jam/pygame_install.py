@@ -6,7 +6,7 @@ import pygame
 pygame.init()
 screen = pygame.display.set_mode((640, 480))
 clock = pygame.time.Clock()
-my_image = pygame.image.load('assignments/code_jam/images/basketball_small.png')
+my_image = pygame.image.load('assignments/code_jam/images/basketball.png')
 image_rect = my_image.get_rect(center=(320, 240))
 running = True
 
